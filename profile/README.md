@@ -4,7 +4,7 @@
 
 ## 💡 UCC
 
-![MockUp](../README_ASSETS/figma.png)
+![MockUp](../README_ASSETS/figma.PNG)
 
 ## 🚩 목차
 
@@ -73,7 +73,7 @@
 
 ### 아키텍처 설계도
 
-![architecture](../README_ASSETS/architecture.png)
+![architecture](../README_ASSETS/architecture.PNG)
 
 ## ✨ 프로젝트 일정 및 기타 산출물
 
@@ -90,8 +90,8 @@
 
 ### 기능명세서
 
-![functionflow](../README_ASSETS/function1.png)
-![functionflow](../README_ASSETS/function2.png)
+![functionflow](../README_ASSETS/function1.PNG)
+![functionflow](../README_ASSETS/function2.PNG)
 
 ### ERD
 
